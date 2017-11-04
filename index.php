@@ -1,7 +1,7 @@
 <?php
 include "class.csv.php";
 
-$csv = New CSV();
+$csv = new CSV();
 
 $csv->addHeader('Name');
 

@@ -9,7 +9,7 @@
 <pre>
 include "class.csv.php";
 
-$csv = New CSV();
+$csv = new CSV();
 </pre>
 
 <h4>How to add header/headers</h4>
